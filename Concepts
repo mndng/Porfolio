@@ -1,0 +1,38 @@
+<nav>
+  <ul id='navbar'>
+    <li><a href="#welcome-section">About</a></li>
+    <li><a href="#projects">Work</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ul>
+</nav>
+
+<div id="welcome-section" class="intro">
+
+  <h1>AMANDA NGUYEN</h1><br>
+<img width="555" height="370" src="//live.staticflickr.com/65535/48199686491_ebdee9fe22_h.jpg">
+
+</div>
+<div id="projects" class="work">
+  <h2 class="work-header"><style>
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC&display=swap');
+</style>Projects I have worked on:</h2>
+  <a href="https://codepen.io/mndng/pen/KjBRjE" target="_blank" class="project project-tile">
+    <img class="project-pic" src="https://live.staticflickr.com/65535/48199565047_a3005a439c_b.jpg" alt="project">
+    <div class="project-title">Concept Design: Stay 2 Nite☾</div>
+  </a>
+  
+<div id="contact" class="contact">
+  <div class="header">
+    <style>
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC&display=swap');
+    </style><p>Let's work together</p>
+  </div>
+ 
+  <a id='profile-link' href="https://github.com/mndng" target="_blank" class="contact-details">GitHub</a>
+  <a href="https://www.linkedin.com/in/amanda-nguyen-atn" target="_blank" class="contact-details">Linkedin</a>
+  <a id='profile-link' href="https://www.instagram.com/mndng" target="_blank" class="contact-details">IG</a>
+  <a href="mailto:amanda.tn@gmail.com" class="contact-details">E-Mail</a>
+</div>
+<footer>Compilation of Projects completed by Amanda Nguyen.<br>
+  &copy; Created for <a href="https://www.freecodecamp.com/" target="_blank">FreeCodeCamp</a></p>
+</footer>
